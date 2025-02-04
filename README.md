@@ -1,6 +1,6 @@
 # pauseLoad
 
-https://addons.mozilla.org/en-US/firefox/addon/pauseload/[https://addons.mozilla.org/en-US/firefox/addon/pauseload/]
+https://addons.mozilla.org/en-US/firefox/addon/pauseload/
 
 Mv2 extention that pauses loading on a list of domains for n seconds. This is a focus tool that brakes the pattern of endless scrolling and watching on most websites. Customize the list of websites, delay, and message.
 
